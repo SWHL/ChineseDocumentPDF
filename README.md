@@ -1,4 +1,4 @@
-## Chinese Document Dataset
+## Chinese Document PDF
 该仓库主要放置自己爬取国内一些中文论文网站、证券报告的PDF。
 
 因涉及到版权问题，我这里只放置PDF链接和对应的下载脚本，小伙伴可以自行下载。
